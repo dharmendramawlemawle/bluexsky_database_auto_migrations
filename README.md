@@ -1,2 +1,0 @@
-# bluexsky_database_auto_migrations
-chalange-python Automatic database migration
