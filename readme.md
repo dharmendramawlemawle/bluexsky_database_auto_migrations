@@ -12,7 +12,7 @@ This repository provides a solution for settingup automatic database migrations 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/dharmendramawlemawle/bluexsky_database_auto_migrations.git
     ```
 
 
